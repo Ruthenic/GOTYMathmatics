@@ -1,3 +1,5 @@
+#someone has already done this so i sure am not, but i am leaving this here incase anyone wants to look at my attempt
+
 import requests
 from lxml import html
 class hltb():
