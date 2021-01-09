@@ -7,3 +7,5 @@ ok, so the web request sent *does* contain a `queryString` that we can use in th
 heck yes it actually works, i can resend the response with an edited querystring and get the new responses  
 so now we should just have to send a response with python and scrape that xpath, and now we have the game id?  
 this seems over complicated, why does hltb not have a public api  
+lol i dont have to do any of this because someone else already has  
+https://github.com/ScrappyCocco/HowLongToBeat-PythonAPI
